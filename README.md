@@ -1,0 +1,1 @@
+# NugetPackage.Library.Template
